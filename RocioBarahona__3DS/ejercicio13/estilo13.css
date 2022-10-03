@@ -1,0 +1,26 @@
+p {
+    font-family: tahoma;
+}
+
+p {
+    color: #ff0000;
+}
+
+p {
+    text-align: center;
+}
+
+
+/*1 forma de agrupacion*/
+p {
+    font-family: tahoma;
+    color: #ff0000;
+    text-align: center;
+}
+
+/*1 forma de agrupacion*/
+p, h1 {
+    font-family: tahoma;
+    color: #ff0000;
+    text-align: center;
+}

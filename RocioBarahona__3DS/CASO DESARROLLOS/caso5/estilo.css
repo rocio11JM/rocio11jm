@@ -1,0 +1,28 @@
+h1 {
+    font-family: tahoma;
+    position: estatic;
+    text-align: center;
+    border: #663366 10px;
+    margin: 0px;
+    color: #000;
+}
+
+h4 {
+    font-family: tahoma;
+    position: estatic;
+    text-align: center;
+    border: #663366 5px;
+    color: #000;
+    margin: 0px;
+}
+
+img {
+    position: estatic;
+    width: 250px;
+    height: 165px;
+}
+
+.linea {
+    width: 1155;
+    height: 2px;
+}

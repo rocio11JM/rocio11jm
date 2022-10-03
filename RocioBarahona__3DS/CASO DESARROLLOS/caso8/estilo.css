@@ -1,0 +1,25 @@
+body {
+    font-family: tahoma;
+    margin: 5px;
+}
+
+section {
+    width: 600px;
+    background-color: lightblue;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    padding: 10px;
+    text-align: justify;
+}
+
+img {
+    float: left;
+    padding: 10px;
+    width: 210px;
+    height: 180px;
+}

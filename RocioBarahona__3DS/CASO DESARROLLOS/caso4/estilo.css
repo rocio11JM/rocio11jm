@@ -1,0 +1,40 @@
+body {
+    margin: 10px;
+    padding: 0px;
+    text-align: left;
+    font-family: tahoma;
+    font-size: 12px;
+    color: black;
+    line-height: 14px;
+}
+
+section {
+    width: 300px;
+}
+
+a {
+    text-decoration: underline;
+    color: #519FC3;
+}
+
+/*estilos de identificacion*/
+#marco1 {
+    background: url(imagenes/amistad.jpg) bottom left no-repeat;
+    width: 87px;
+    background-position: center;
+    margin: 20px 15px 18px 22px;
+}
+
+#marco2 {
+    margin: 14px 0px 0px 90px;
+}
+
+/*estilos de clase*/
+.linea {
+    width: 250px;
+    height: 1px;
+}
+
+.link {
+    float: right;
+}
